@@ -81,3 +81,7 @@ Job Databricks planifié **tous les jours à 6 h (Europe/Paris)** :
 | Power BI | Lignage Unity Catalog |
 |---|---|
 | ![Power BI](images/powerbi.png) | ![Lignage](images/lignage.png) |
+
+| Exécution automatique quotidienne (Job planifié à 6 h) |
+|---|
+| ![Historique des exécutions](images/job_runs.png) |
